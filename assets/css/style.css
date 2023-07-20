@@ -276,6 +276,7 @@ footer {
     position: relative;
     height: 25px;
     margin-bottom: 4px;
+    line-height: inherit;
 }
 
 .progress-type {
